@@ -1,0 +1,2 @@
+/console cameraPitchMoveSpeed
+/console cameraYawMoveSpeed 42.24
