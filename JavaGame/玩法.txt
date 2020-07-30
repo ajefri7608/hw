@@ -1,3 +1,6 @@
+
+1.execute JavaGame\CE1002\bin\Final\s105502054\main.java to start
+
 按Z出步兵,X出騎兵,C出巨人
 
 兵種關係:步兵克步兵,騎兵克掃把頭,巨人克龍
